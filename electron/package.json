@@ -1,5 +1,5 @@
 {
-	"name": "discord-bot-client",
+	"name": "discord bot client",
 	"version": "3.1.0",
 	"description": "Discord Bot Client - login into discord with a bot token",
 	"main": "index.js",
@@ -10,11 +10,11 @@
 	},
 	"keywords": [],
 	"author": {
-		"name": "Flam3rboy",
-		"email": "support@botclient.tk"
+		"name": "Zenk999",
+		"email": "soon"
 	},
 	"repository": {
-		"url": "https://github.com/Flam3rboy/discord-bot-client/"
+		"url": "soon;)"
 	},
 	"license": "ISC",
 	"productName": "Discord Bot Client",
